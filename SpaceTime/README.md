@@ -7,7 +7,7 @@ Space–Time Autocorrelation in Spatial Panel Data". In this paper, I developed 
    
    Space–time contemporaneous specification indicates that “a location i links to its preceding in situ location as well as the instantaneous neighboring locations”.
 
-    ![Alt text](<Figures/contemporaneous space_time_revised2.jpg>)
+![Alt text](<Figures/contemporaneous space_time_revised2.jpg>)
 
 
 
@@ -15,7 +15,7 @@ Space–Time Autocorrelation in Spatial Panel Data". In this paper, I developed 
     
     Space–time lagged specification is that “a location i links to its preceding in situ location as well as the preceding neighboring locations”.
 
-    ![Alt text](<Figures/lagged space_time_resvised2.jpg>)
+![Alt text](<Figures/lagged space_time_resvised2.jpg>)
 
 3. ### Space-time $G_{i}$ and $G_{i}^{*}$
     
