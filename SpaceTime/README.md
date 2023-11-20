@@ -1,5 +1,5 @@
 ## This repository contains Data and Code for the paper published in The professional Geographer 
-The peper is titled "Extending Getis–Ord Statistics to Account for Local
+The paper is titled "Extending Getis–Ord Statistics to Account for Local
 Space–Time Autocorrelation in Spatial Panel Data". In this paper, I developed a new method which can be used to summarize space–time patterns from spatial panel data, identify changes of landscape more consistently, and lend the results readily to visualization.
 
 ## The new method extends the Getis–Ord $G_{i}$ and $G_{i}^{*}$ statistics to the space-time domain
