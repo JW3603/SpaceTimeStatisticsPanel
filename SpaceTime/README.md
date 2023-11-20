@@ -16,18 +16,14 @@ Space–Time Autocorrelation in Spatial Panel Data". In this paper, I developed 
     
     Modified from its spatial counterpart, the null hypothesis of space–time $G_{i}$ can be specified as follows: The sum of observations at $i$’s ($i=1, 2, …,N$) space–time neighbors (excluding $i$) is not more extreme (either larger or smaller) than one would expect by chance given all of the observation(excluding $i$).
 
-    $$
-    G_{i}(V_{ST}) = \frac{\sum_{j,j≠i} v_{ij}x_j}{\sum_{j,j≠i}x_j}
-    $$
+    $G_{i}(V_{ST}) = \frac{\sum_{j,j≠i} v_{ij}x_j}{\sum_{j,j≠i}x_j}$
 
     
     Likewise, the null hypothesis of space–time $G_{i}$ can be stated as follows: The sum of observations at $i$’s ($i=1, 2, …,N$) space–time neighbors (including $i$) is not more extreme (either larger or smaller) than one would expect by chance given all of the observations (including $i$).
 
-    $$
-    G_{i}^*(V_{ST}) = \frac{\sum_{j} v_{ij}x_j}{\sum_{j}x_j}
-    $$
+    $G_{i}^*(V_{ST}) = \frac{\sum_{j} v_{ij}x_j}{\sum_{j}x_j}$
 
-## Two applications
+## Two applicationsgit lola --name-status
 
 
 
